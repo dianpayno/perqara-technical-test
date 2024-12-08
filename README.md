@@ -1,6 +1,6 @@
 # Project Name
 
-Movies Apps - Perqra Technical Test
+Movies Apps - Perqara Technical Test
 
 
 ## Getting Started
