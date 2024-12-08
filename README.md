@@ -16,4 +16,15 @@ Ensure you have the following installed on your machine:
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/dianpayno/perqara-technical-test.git
+2. Move to directory and run : npm install
+3. Then run : npm run dev
+4. sever will running on : http://localhost:3000
+   
+## Build with
+Next.js 
+Tailwind CSS 
+Swiper.js
+Redux Toolkit
+
+
